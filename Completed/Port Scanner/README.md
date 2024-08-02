@@ -33,6 +33,6 @@ How does a Port Scanner Work?
 
   Output and Analysis:
 
-    Port List: The scanner generates a list of open, closed, or filtered ports along with associated services and versions if detected.
+  Port List: The scanner generates a list of open, closed, or filtered ports along with associated services and versions if detected.
 
-    Security Assessment: The information gathered helps in assessing the security posture of the target system, identifying potential vulnerabilities, and planning further actions.
+  Security Assessment: The information gathered helps in assessing the security posture of the target system, identifying potential vulnerabilities, and planning further actions.
